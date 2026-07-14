@@ -7,25 +7,19 @@
 ## 🌱 Currently Learning
 - Python
 - Data Structures & Algorithms
-- SQL
-- React
 - Git & GitHub
 
 ## 🛠️ Tech Stack
 - Python
-- MySQL
-- Git
+- Git & GitHub
 - VS Code
 
-## 🚀 Projects
-### AI-Powered Conversational Data Dashboard
-- Converts natural language queries into interactive data visualizations.
-- Built using HTML, CSS, JavaScript, Python, and database concepts.
-
-## 🏆 Achievements
+## 📜 Certifications
+- Full Stack Web Development with AI Training (Internshala) Grade A
+- BE10X AI Tools Workshop Certificate
 - Smart India Hackathon (SIH) Participant
 - Hackfest (GeeksforGeeks) Participant
-- Completed Full Stack Web Development with AI Training (Grade A)
+
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/ashikapilania2006
