@@ -36,8 +36,8 @@ Currently, I am focused on strengthening my expertise in **Python, JavaScript, S
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://ashika-prep-hub-interview.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://www.ashikapilania.me/">
+<img src="https://img.shields.io/badge/Personal_Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
