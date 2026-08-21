@@ -45,25 +45,17 @@ Currently, I am focused on strengthening my expertise in **Python, JavaScript, S
 ---
 ## 💻 TECH STACK 
 
-### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js" />
-</p>
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,js" />
 
-### Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css" />
 
-### Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+**Database**  
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
 
